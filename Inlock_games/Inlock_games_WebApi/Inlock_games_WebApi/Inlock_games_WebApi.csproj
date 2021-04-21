@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="C:\Users\caisb\OneDrive\Desktop\Senai_Sprint2_Backend\Inlock_games\Inlock_games.json" Link="Inlock_games.json" />
+  </ItemGroup>
+
+</Project>
